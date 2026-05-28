@@ -1,2 +1,0 @@
-## Handles MCP server operations
-
